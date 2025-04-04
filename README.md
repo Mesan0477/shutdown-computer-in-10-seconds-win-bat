@@ -9,3 +9,5 @@ shutdown = turn off PC.
 -s = in 30 seconds.
 
 -t 10 = make the duration 10 seconds.
+
+bat file could not be tested! Try it on a virtual machine.
